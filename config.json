@@ -18,7 +18,7 @@
 "log_length" : 100,
 "dev_debug": false,
 "extra_js": [],
-"demo_sites": [{"key": "student", "url": "http://e-learning.balichildrenshouse.com/moodle/", "username": "student", "password": "moodle"}, {"key": "teacher", "url": "http://e-learning.balichildrenshouse.com/moodle/", "username": "teacher", "password": "moodle"}, {"key": "cva", "url": "http://e-learning.balichildrenshouse.com/moodle/", "username": "student", "password": "student"}],
+"siteurl": "http://e-learning.balichildrenshouse.com/moodle",
 "notifications_enabled": true,
 "gcmpn": "694767596569"
 }
